@@ -26,5 +26,5 @@ I am Rahul. I am a 👨‍💻 Javascript developer, a self-learner who is passi
 ### 📫 How to reach me:
 - Email : settingsingh@outlook.com
 - Portfolio : [link](http://rahuljs.netlify.app)
-- Twitter : [@settingsingh](https://twitter.com/settingsingh)
+- Twitter : [@settingsingh](https://twitter.com/https://github.com/thescubedr)
 - Instagram : [@codingsnap](https://instagram.com/codingsnap)

@@ -19,8 +19,8 @@ I am Rahul. I am a 👨‍💻 Javascript developer, a self-learner who is passi
 
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=settingsingh&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=buefy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=settingsingh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thescubedr&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=buefy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thescubedr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### 📫 How to reach me:

@@ -8,6 +8,7 @@ I am Rahul. I am a 👨‍💻 Javascript developer, a self-learner who is passi
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
@@ -24,7 +25,7 @@ I am Rahul. I am a 👨‍💻 Javascript developer, a self-learner who is passi
 
 
 ### 📫 How to reach me:
-- Email : settingsingh@outlook.com
+- Email : thescubedr@outlook.com
 - Portfolio : [link](http://rahuljs.netlify.app)
-- Twitter : [@settingsingh](https://twitter.com/https://github.com/thescubedr)
+- Twitter : [@thescubedr](https://twitter.com/https://github.com/thescubedr)
 - Instagram : [@codingsnap](https://instagram.com/codingsnap)

@@ -29,3 +29,4 @@ I am Rahul. I am a 👨‍💻 Javascript developer, a self-learner who is passi
 - Portfolio : [link](http://rahuljs.netlify.app)
 - Twitter : [@thescubedr](https://twitter.com/https://github.com/thescubedr)
 - Instagram : [@codingsnap](https://instagram.com/codingsnap)
+![counter](https://komarev.com/ghpvc/?username=thescubedr&style=flat-square)

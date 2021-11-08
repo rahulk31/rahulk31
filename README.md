@@ -3,7 +3,7 @@
 
 I am Rahul. I am a 👨‍💻 Javascript developer, a self-learner who is passionate about web technologies and building cool projects. Besides that I love designing for web using AdobeXD / Figma and use Illustrator for illustrations. 
 - I’m currently working on a minimal productivity app for myself and learning MERN Stack. 
-- I am documenting my learnings on my [blog](https://www.devtuber.in/).
+- I am documenting my learnings on my [blog](https://blognotes.hashnode.dev/).
 
 
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -22,15 +22,10 @@ I am Rahul. I am a 👨‍💻 Javascript developer, a self-learner who is passi
 
 
 
-![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=thescubedr&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=buefy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thescubedr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=rahulk31&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=buefy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulk31&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### 📫 How to reach me:
-- Email : thescubedr@outlook.com
-- Portfolio : [link](http://rahuljs.netlify.app)
-- Twitter : [@thescubedr](https://twitter.com/https://github.com/thescubedr)
-- Instagram : [@codingsnap](https://instagram.com/codingsnap)
 
 ### Profile Analytics
-![counter](https://komarev.com/ghpvc/?username=thescubedr&style=flat-square)
+![counter](https://komarev.com/ghpvc/?username=rahulk31&style=flat-square)

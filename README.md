@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-
-I am Rahul. I am a 👨‍💻 Frontend developer, a self-learner who is passionate about web technologies and building beautiful projects. 
-- I’m currently working as a Engineer II at Amex. 
-- I am documenting my learnings on my [blog](https://blognotes.hashnode.dev/).
+I am Rahul, professionally a Frontend Engineer and a problem solver by nature. I like exploring tech and learn by doing.
 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
